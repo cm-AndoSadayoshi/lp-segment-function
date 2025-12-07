@@ -1,0 +1,17 @@
+{
+    "name": "lp-segment-function",
+    "version": "1.0.0",
+    "description": "セグメント配信 & 動的リッチメニュー LP",
+    "scripts": {
+        "build": "mkdir -p public && cp index.html style.css script.js public/"
+    },
+    "keywords": [
+        "LINE",
+        "segment",
+        "rich-menu",
+        "marketing"
+    ],
+    "author": "",
+    "license": "ISC"
+}
+
