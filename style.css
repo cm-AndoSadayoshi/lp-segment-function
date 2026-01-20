@@ -188,6 +188,7 @@ h6 {
 }
 
 .hero-cta {
+    justify-content: center;
     display: flex;
     gap: 16px;
     flex-wrap: wrap;
